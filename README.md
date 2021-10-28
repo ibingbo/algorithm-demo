@@ -1,2 +1,2 @@
-# algorithm-app
-algorithm program
+# algorithm-demo
+algorithm program by go
