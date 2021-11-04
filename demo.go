@@ -11,7 +11,7 @@
  */
 
 // Package src TODO package function desc
-package src
+package main
 
 import (
 	"math"
